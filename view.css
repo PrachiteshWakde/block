@@ -1,0 +1,25 @@
+img
+{
+  width: 720px
+}
+body
+{
+  background-color: #d6e0f0;
+}
+hr{
+
+border-style: none ;
+border-top-style:  dotted;
+border-color: grey;
+border-width: 7px;
+width: 10%;
+}
+h1
+{color:#393b44;
+  font-size: 100px;
+}
+h3
+{color: #2d4059;
+  font-size: 40px;
+  font-weight: bold;
+}
